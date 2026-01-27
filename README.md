@@ -22,3 +22,6 @@ and everyone starts somewhere, even if their first commit is a mess.
 1. keep going
 2. don’t delete progress just because it’s awkward
 3. try to understand yesterday’s code tomorrow
+
+if you’re reading this: hi.  
+if you’re future me: be nice.
