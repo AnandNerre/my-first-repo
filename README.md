@@ -17,3 +17,8 @@ some code, some experiments, some “why did i do it this way” moments.
 ## why github?
 because hiding drafts forever doesn’t teach you anything.  
 and everyone starts somewhere, even if their first commit is a mess.
+
+## rules (for now)
+1. keep going
+2. don’t delete progress just because it’s awkward
+3. try to understand yesterday’s code tomorrow
