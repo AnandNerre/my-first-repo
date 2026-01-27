@@ -1,3 +1,4 @@
-# my-first-repo
+# hi.
 
-This is My first repository!
+this is my first thing on github.  
+i don’t fully know what i’m doing yet, but i’m here anyway.
