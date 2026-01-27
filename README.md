@@ -25,3 +25,6 @@ and everyone starts somewhere, even if their first commit is a mess.
 
 if you’re reading this: hi.  
 if you’re future me: be nice.
+
+
+— me
