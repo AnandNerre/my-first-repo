@@ -12,3 +12,8 @@ some code, some experiments, some “why did i do it this way” moments.
 - things that don’t
 - comments like “fix later” that i may or may not come back to
 - learning in public, which is slightly terrifying
+
+
+## why github?
+because hiding drafts forever doesn’t teach you anything.  
+and everyone starts somewhere, even if their first commit is a mess.
